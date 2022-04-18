@@ -10,3 +10,8 @@
 * [用字典進行運算](/chapter1/case8.py)
 * [找出兩個字典的共通處](/chapter1/case9.py)
 * [從一個序列中移除重複的項目，並維持原本的順序](/chapter1/case10.py)
+* [給一個 slice 命名](/chapter1/case11.py)
+* [找出一個序列中出現最頻繁的項目](/chapter1/case12.py)
+* [藉由一個共通的鍵值來排序一個由字典所構成的串列](/chapter1/case13.py)
+* [在不支援原生的比較運算的情形下排序物件](/chapter1/case14.py)
+* [基於一個欄位來為記錄分組](/chapter1/case15.py)
