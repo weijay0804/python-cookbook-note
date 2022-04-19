@@ -15,3 +15,8 @@
 * [藉由一個共通的鍵值來排序一個由字典所構成的串列](/chapter1/case13.py)
 * [在不支援原生的比較運算的情形下排序物件](/chapter1/case14.py)
 * [基於一個欄位來為記錄分組](/chapter1/case15.py)
+* [過濾序列的元素](/chapter1/case16.py)
+* [取出一個字典的子集合](/chapter1/case17.py)
+* [將名稱映射至序列元素](/chapter1/case18.py)
+* [同時轉換並縮減資料](/chapter1/case19.py)
+* [將多個映射結合為單一個映射](/chapter1/case20.py)
